@@ -1,6 +1,6 @@
 - Hi, I’m @spacekwi
 - I’m interested in ... Video Games
-- I’m currently learning ... Html, Java, C, and im self teaching scratch
+- I’m currently learning ... Html, Java, C, and godot
 - I’m looking to collaborate on ... Game
 - How to reach me ... no way right now
 
